@@ -1,8 +1,8 @@
 # Digit Generation using Auto-encoders, GLOW, and DCGAN
-Digit generation learned from MNIST using implementations of an Autoencoder, GLO, and DCGAN. Part of coursework for HUJI Intro to NN.
+Digit generation learned from MNIST using implementations of an Autoencoder, GLO, and DCGAN. Part of coursework for Hebrew University Intro to NN 2019.
 
 # Authors
-Oriyan Hermoni
+Oriyan Hermoni<br>
 Amit Segal
 
 # Notes
